@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  Ilocation
+  iLocation
 </h1>
 
 ## 👨🏻‍💻 Sobre o projeto
