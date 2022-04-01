@@ -9,6 +9,8 @@
 
 <p>Nós recebemos o desafio de desenvolver uma aplicação que permita as pessoas entregadoras selecionar pedidos para serem entregues e que sua geolocalização seja enviada e registrada em um banco de dados durante todo o trajeto da entrega.</p>
 
+
+
 ### 💻 Desenvolvedores
 
 <h3>Equipe 1: Os Verbosos</h3>
@@ -43,6 +45,9 @@ e uma API para o controle, tratamento e autenticação dos dados enviados pela n
 
 
 ### Repositório do Back-end: https://github.com/Rogerio-Fidencio/iLocation-back
+
+
+
 
 
 # Front-End
