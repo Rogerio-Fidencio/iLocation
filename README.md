@@ -1,12 +1,18 @@
-<h3 align="center">
-  Os Verbosos
-</h3>
+![6a9244c9cd387c4bf1e2822684f1211a](https://user-images.githubusercontent.com/82601106/161195277-e27bfde6-8a05-4f21-a459-ebd152cafbb5.png)
+
+
+<h1 align="center">
+  Ilocation
+</h1>
 
 ## 👨🏻‍💻 Sobre o projeto
 
 <p>Nós recebemos o desafio de desenvolver uma aplicação que permita as pessoas entregadoras selecionar pedidos para serem entregues e que sua geolocalização seja enviada e registrada em um banco de dados durante todo o trajeto da entrega.</p>
 
 ### 💻 Desenvolvedores
+
+<h3>Equipe 1: Os Verbosos</h3>
+
 - [Carolina Amaral](https://github.com/anacapx)
 - [Henrique Lima](https://github.com/henriquellima)
 - [Rogério Fidencio](https://github.com/Rogerio-Fidencio)
@@ -36,7 +42,7 @@ e uma API para o controle, tratamento e autenticação dos dados enviados pela n
 - Consultas de geolocalização por pedido
 
 
-Repositório do Back-end: https://github.com/Rogerio-Fidencio/iLocation-back
+### Repositório do Back-end: https://github.com/Rogerio-Fidencio/iLocation-back
 
 
 # Front-End
@@ -56,6 +62,6 @@ podendo pegar um pedido e começar a mandar sua localização em tempo real para
 - Atribuição de pedido pelo entregador
 - Alteração de status do pedido (cancelado/concluído)
 
-Repositório do Front-end: https://github.com/ananuness/ilocation-front
+### Repositório do Front-end: https://github.com/ananuness/ilocation-front
 
-Deploy: https://ilocation.vercel.app/
+### Deploy: https://ilocation.vercel.app/
